@@ -1,0 +1,26 @@
+
+.car4{
+        border-top-left-radius: 25px !important;
+        border-bottom-left-radius: 25px !important;
+        margin-right: 10px !important;
+        background-color: #153462 !important;
+        color:  #BAD1C2;
+      
+      }
+.car5{
+        background-color: #4FA095 !important;
+        border-top-left-radius: 0px !important;
+        border-bottom-left-radius: 0px !important;
+       
+        color:  #153462;
+      }
+.car6{
+        border-top-right-radius: 25px !important;
+        border-bottom-right-radius: 25px !important;
+        background-color: #153462 !important;
+        color:  #BAD1C2 !important;
+      }
+.btbg1{
+        background-color: #bad1c2 !important;
+        border-color: #153462 !important ;
+}
